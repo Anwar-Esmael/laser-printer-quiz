@@ -1,4 +1,4 @@
-const CACHE_NAME = "laser-printer-quiz-cache-v1";
+const CACHE_NAME = "laser-printer-quiz-cache-v2";
 const urlsToCache = [
   "./",                // الصفحة الرئيسية
   "./index.html",      // الملف الأساسي
